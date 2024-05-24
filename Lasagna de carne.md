@@ -1,6 +1,13 @@
 # Receta de Lasagna de Carne:
 Esta guia se trata sobre como hacer una rica lasagna de carne en tu casa.
-(https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/ras/Assets/3B707DAE-A600-44FC-B7D5-15896184874D/Derivates/e3304b41-3431-4b6e-b600-8ee6bd94cdbe.jpg)
+Puede consultar estos links, los cuales tambien contiene diferentes maneras de hacer lasagna!:
+[CLICK AQUÍ](https://www.bbcgoodfood.com/recipes/classic-lasagne-0)
+2- [CLICK AQUÍ](https://www.spendwithpennies.com/easy-homemade-lasagna/)
+3- [CLICK AQUÍ](https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/)
+4- [CLICK AQUÍ](https://www.simplyrecipes.com/recipes/lasagna/)
+5- [CLICK AQUI](https://www.youtube.com/watch?v=QZloaLmvSP0&ab_channel=PreppyKitchen)
+
+![Lasagna de carne](LASAGNA.jpg)
 # Ingredientes:
 
 - 1 paquete de láminas de lasaña
@@ -25,9 +32,9 @@ Esta guia se trata sobre como hacer una rica lasagna de carne en tu casa.
 1. Precalentá el horno a 180°C (350°F).
 
 2. En una sartén grande, calentá un poco de aceite de oliva a fuego medio. Agregá la cebolla y el ajo picados y cocínalos hasta que estén transparentes.
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeL-sNTY4YLti1F4mmiFFF67YoI54VuO-c0iXwKRrXw&s)
+![CEBOLLA](cebolla.jpg)
 3. Agregá la carne molida a la sartén y cocinala hasta que esté bien dorada y cocida por completo. Escurrí el exceso de grasa si es necesario.
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikihow.com%2Fcocinar-carne-molida&psig=AOvVaw046KTgRC2nQzcSVXM1JpPH&ust=1716056993538000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiStNColYYDFQAAAAAdAAAAABAJ)
+![CARNE PICADA](CARNE_PICADA.jpg)
 4. Añadí el tomate triturado, la pasta de tomate, el azúcar, el orégano, la albahaca, la sal y la pimienta a la sartén. Mezclá bien y dejá que la salsa hierva a fuego lento durante unos 15-20 minutos, revolviendo ocasionalmente.
 
 5. En un tazón pequeño, mezclá el queso ricotta con el huevo batido y la mitad del queso parmesano rallado.
@@ -46,5 +53,6 @@ Esta guia se trata sobre como hacer una rica lasagna de carne en tu casa.
 
 12. Dejá reposar la lasaña durante unos minutos antes de cortarla en porciones. Decorá con hojas de albahaca fresca y sirve caliente.
 
-#Pumba, una rica lasagna de carne te hiciste :).
+# Pumba, una rica lasagna de carne te hiciste :).
+![LASAGNA_FINAL.png](LASAGNA_FINAL.png)
 
