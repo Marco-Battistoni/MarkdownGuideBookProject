@@ -9,4 +9,4 @@
   
   [Hamburguesa](hamburguesa.md)
   
-  [Lasagna de Carne](Lasagna_de_carne.md)
+  [Lasagna de Carne](Lasagna.md)
