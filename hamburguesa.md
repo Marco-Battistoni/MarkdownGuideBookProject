@@ -69,3 +69,14 @@
 # A comer!
 
 10. Listo tenes una rica hamburguesa para comer!!
+SI queres mas info de hamburguesas:
+
+-[Mas Info](https://www.recepedia.com/es-mx/articulos/13-recetas-de-hamburguesas-caseras-diferentes-y-deliciosas/)
+
+-[Mas Info](https://www.micasarevista.com/recetas-trucos-cocina/g36616436/hamburguesas-caseras/)
+
+-[Mas Info](https://www.bonviveur.es/recetas/tag/hamburguesas/)
+
+-[Mas Info](https://www.beloleum.com/blog/recetas-hamburguesas-gourmet/)
+
+-[Mas Info](https://www.recetasnestle.cl/la-cocina-nestle/coccion-y-tecnica/hamburguesa)
